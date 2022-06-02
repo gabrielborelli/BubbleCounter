@@ -12,3 +12,8 @@ The *%04d* corresponds to all the files with 4 digits suffix. This should be mod
 Note that the default fps is 25. All the options are given in help, by typing
 
 	$ ffmpeg -h
+
+### Output example
+
+https://user-images.githubusercontent.com/91807623/171705452-dc4b8c74-9710-4881-bff5-be39f082fe83.mp4
+
